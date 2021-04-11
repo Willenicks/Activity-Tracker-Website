@@ -1,0 +1,40 @@
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\bin\Debug\netcoreapp3.1\Project Step 9.exe
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\bin\Debug\netcoreapp3.1\Project Step 9.deps.json
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\bin\Debug\netcoreapp3.1\Project Step 9.runtimeconfig.json
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\bin\Debug\netcoreapp3.1\Project Step 9.runtimeconfig.dev.json
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\bin\Debug\netcoreapp3.1\Project Step 9.dll
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\bin\Debug\netcoreapp3.1\Project Step 9.pdb
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\bin\Debug\netcoreapp3.1\Project Step 9.Views.dll
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\bin\Debug\netcoreapp3.1\Project Step 9.Views.pdb
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.csprojAssemblyReference.cache
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.AssemblyInfoInputs.cache
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.AssemblyInfo.cs
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.csproj.CoreCompileInputs.cache
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.RazorAssemblyInfo.cache
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.RazorAssemblyInfo.cs
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\staticwebassets\Project Step 9.StaticWebAssets.Manifest.cache
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\staticwebassets\Project Step 9.StaticWebAssets.xml
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\scopedcss\bundle\Project Step 9.styles.css
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.TagHelpers.input.cache
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.TagHelpers.output.cache
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.RazorCoreGenerate.cache
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.RazorTargetAssemblyInfo.cache
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.RazorTargetAssemblyInfo.cs
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.Views.pdb
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.dll
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.pdb
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.genruntimeconfig.cache
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Project Step 9.csproj.CopyComplete
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Razor\Views\ActivityType\Details.cshtml.g.cs
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Razor\Views\ActivityType\Goals.cshtml.g.cs
+C:\Users\wheni\source\repos\ASP.NET\Project Step 9\Project Step 9\obj\Debug\netcoreapp3.1\Razor\Views\ActivityRecord\Add.cshtml.g.cs

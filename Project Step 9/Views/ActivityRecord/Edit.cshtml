@@ -1,0 +1,32 @@
+﻿@model ActivityRecord
+
+<h1> Edit Activity Record </h1>
+
+<form method="post">
+
+    Record number:
+    <input asp-for="RecordID" />
+    <br />
+
+    Id: 
+    <input asp-for="ActivityId" />
+    <br />
+
+    Date:
+    <input asp-for="Date" />
+    <br />
+
+    Location: 
+    <input asp-for="Location" />
+    <br />
+
+    Distance: 
+    <input asp-for="Distance" />
+    <br />
+
+    Time: 
+    <input asp-for="TimeRecord" />
+    <br />
+    <input type ="submit" value="Update Avtivity Record" class="btn btn-sm btn-success" />
+
+</form>

@@ -1,0 +1,32 @@
+﻿@model ActivityType
+
+<h1> Activity Type Details </h1>
+
+
+<table>
+    <tr>
+        <th class="text-right"> Id: </th>
+        <td> @Model.id </td>
+    </tr>
+    <tr>
+        <th class="text-right"> User Id: </th>
+        <td> @Model.userId  </td>
+    </tr>
+    <tr>
+        <th class="text-right"> Activity Name: </th>
+        <td> @Model.ActivityName </td>
+    </tr>
+</table>
+
+<tr>
+    <td class="text-center" colspan="2">
+        <button class="btn-sm btn-info ml-1 mr-1"> Back </button>
+        <button class="btn-sm btn-warning ml-1 mr-1">
+            <a asp-controller="ActivityType" asp-action="Goals">
+                Goals
+            </a>
+        </button>
+        <button class="btn-sm btn-danger ml-1 mr-1"> Delete </button>
+    </td>
+
+</tr>

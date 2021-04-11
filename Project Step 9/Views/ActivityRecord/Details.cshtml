@@ -1,0 +1,12 @@
+﻿@model ActivityRecord
+
+<h1> Activity Record </h1>
+
+Record number: @Model.RecordID <br />
+Id: @Model.ActivityId <br />
+Date: @Model.Date <br />
+Location: @Model.Location <br />
+Distance: @Model.Distance <br />
+Time: @Model.TimeRecord <br />
+
+<a asp-action="Edit" class="btn btn-sm btn-warning"> Edit </a>
